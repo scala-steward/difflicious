@@ -5,7 +5,7 @@ import sbt.Reference.display
 import org.typelevel.sbt.tpolecat.{CiMode, DevMode}
 
 val munitVersion = "1.3.0"
-val munitScalacheckVersion = "1.2.0"
+val munitScalacheckVersion = "1.3.0"
 val catsVersion = "2.13.0"
 val scalatestVersion = "3.2.20"
 val weaverVersion = "0.12.0"
